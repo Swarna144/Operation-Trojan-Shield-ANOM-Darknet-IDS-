@@ -3,7 +3,9 @@ To study how ANOM worked, why the usual defences and the usual assumptions of da
 
 
 Cyber Security, Continuous Assessment II (Experiential Learning), Unit 4 (Darknet + IDS)
-Symbiosis Institute of Technology, Pune. AY 2026-27, Semester VII. **Group 14**: Aaradhya, Prachi, Mudita, Swarna. Faculty: Dr. Mangal Singh.
+Symbiosis Institute of Technology, Pune. AY 2026-27, Semester VII. 
+**Group 14**: Aaradhya, Prachi, Mudita, Swarna. 
+Faculty: Dr. Mangal Singh.
 
 This repository holds the code and report for our case study of **Operation Trojan Shield** (the FBI/AFP-run ANOM encrypted-phone platform, 2018-2021). The ANOM operators never broke the encryption. They ran the platform and controlled the key handling, so the trust users placed in the vendor was the weak point.
 
