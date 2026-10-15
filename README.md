@@ -1,9 +1,6 @@
 # Operation-Trojan-Shield-ANOM-Darknet-IDS-
 To study how ANOM worked, why the usual defences and the usual assumptions of darknet users failed to expose it, and what defenders can learn from the way it was built.
 
-
-Cyber Security, Continuous Assessment II (Experiential Learning), Unit 4 (Darknet + IDS)
-Symbiosis Institute of Technology, Pune. AY 2026-27, Semester VII. 
 **Group 14**: Aaradhya, Prachi, Mudita, Swarna. 
 Faculty: Dr. Mangal Singh.
 
