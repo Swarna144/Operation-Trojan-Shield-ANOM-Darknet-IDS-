@@ -47,7 +47,7 @@ Scenario A, detection AUC with a clean reference (0.5 = chance):
 
 Scenario B stays at chance (AUC about 0.50, detection about 1%). Scenario C detects 100% of bolt-on flows with 0.5% false alarms. The numbers match the report's Table 8 to within a few points. They are not bit-identical because the random-number stream differs.
 
-![Results]<img width="1650" height="600" alt="figure5" src="https://github.com/user-attachments/assets/58b1cecd-7318-4b17-8d68-156e952756ed" />
+## Results <img width="1650" height="600" alt="figure5" src="https://github.com/user-attachments/assets/58b1cecd-7318-4b17-8d68-156e952756ed" />
 
 
 ## Takeaways
