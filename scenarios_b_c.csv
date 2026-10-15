@@ -1,0 +1,5 @@
+scenario,messages,auc,detection_rate
+B,1,0.49,0.8%
+B,10,0.50,1.2%
+B,100,0.50,1.1%
+C,-,-,100% (false alarms 0.5%)
